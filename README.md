@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 
-<h3 align="center">💻 Aspiring Java Developer | 🚀 Enchanted by the world of ones and zeros.</h3>
+<h3 align="center">💻 MCA Student | 🚀 Enchanted by the world of ones and zeros.</h3>
 
 <p align="center">
 🎓 MCA Student <br>
