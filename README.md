@@ -43,8 +43,6 @@ Here are some ideas to get you started:
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
 </p>
 
-<br/>
-
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
@@ -60,11 +58,6 @@ Here are some ideas to get you started:
   <a href="https://github.com/DenverCoder1/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p> -->
-
-<br/>
-
-
-
 <h3 align="center">💻 MCA Student | 🚀 Enchanted by the world of ones and zeros.</h3>
 
 <p align="center">
