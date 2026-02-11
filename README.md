@@ -53,8 +53,6 @@
 
 ## 🛠 Tech Stack
 <p align="center">
-
-<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50"/>
@@ -67,42 +65,6 @@
 </p>
 
 
-
-</p>
-
-
----
-
-
-## 👨‍💻 About Me
-- 🔭 Working on **node.js and java projects.**
-- 📱 Interested in **Android + Backend Development**
-- 🧠 Exploring **System Design & APIs**
-- ⚡ Fun fact: **I am always up for learning new things.**
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-</p>
-
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-<a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=blue"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=red"/></a>
-</p>
-
----
-
-<!-- ================= FOOTER (VENOM THEME) ================= -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05070B,50:0B1020,100:7B5CFF&height=140&section=footer"/>
 
 
 
