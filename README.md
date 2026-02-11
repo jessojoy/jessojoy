@@ -30,14 +30,6 @@ Here are some ideas to get you started:
 
 ---
 
-## 👨‍💻 About Me
-- 🔭 Working on **node.js and java projects.**
-- 📱 Interested in **Android + Backend Development**
-- 🧠 Exploring **System Design & APIs**
-- ⚡ Fun fact: **I am always up for learning new things.**
-
----
-
 ## 🛠 Tech Stack
 <p align="center">
 
@@ -56,6 +48,16 @@ Here are some ideas to get you started:
 
 
 </p>
+
+
+---
+
+
+## 👨‍💻 About Me
+- 🔭 Working on **node.js and java projects.**
+- 📱 Interested in **Android + Backend Development**
+- 🧠 Exploring **System Design & APIs**
+- ⚡ Fun fact: **I am always up for learning new things.**
 
 ---
 
