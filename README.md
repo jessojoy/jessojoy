@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/DenverCoder1">
-    <img src="myname.png" alt="Jesso Joy" height="40px" width="120px" /></a>
+    <img src="myname.png" alt="Jesso Joy" height="80px" width="240px" /></a>
 </p>
 
 <p align="center">
