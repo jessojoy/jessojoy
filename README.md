@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 <h3 align="center">💻 MCA Student | 🚀 Enchanted by the world of ones and zeros.</h3>
 
 <p align="center">
-🎓 MCA Student <br>
+🎓 CS graduate <br>
 ☕ Aspiring Java & Android Developer <br>
 🌱 Currently learning: Java, Node.js, postgresql, css, php | Backend APIs
 </p>
