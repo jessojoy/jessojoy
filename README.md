@@ -61,18 +61,6 @@ Here are some ideas to get you started:
 
 ---
 
-## 🚀 Projects
-
-### 🔹 Events4you
-Community event discovery Android application  
-**Tech:** Java, Flask, MySQL
-
-### 🔹 Kashmiri Speech Transcriber
-Offline speech → English transcription system  
-**Tech:** Python, Speech Models
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
