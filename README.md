@@ -41,18 +41,18 @@ Here are some ideas to get you started:
 ## 🛠 Tech Stack
 <p align="center">
 
-<img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=red"/>
-<img src="https://img.shields.io/badge/Android-black?style=for-the-badge&logo=android&logoColor=green"/>
-<img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=blue"/>
-<img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=orange"/>
-<img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=orange"/>
-<img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=blue"/>
-<img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=green"/>
-<img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=blue"/>
-<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=yellow"/>
-<img src="https://img.shields.io/badge/R-black?style=for-the-badge&logo=r&logoColor=blue"/>
-<img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=lightgrey"/>
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/>
+</p>
+
 
 
 </p>
