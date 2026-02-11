@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/DenverCoder1">
-    <img src="" alt="Jesso Joy" /></a>
+    <img src="myname.png" alt="Jesso Joy" /></a>
 </p>
 
 <p align="center">
