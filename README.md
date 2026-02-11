@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- ================= HEADER (VENOM THEME) ================= -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&color=0:05070B,50:0B1020,100:7B5CFF&height=220&section=header&text=Jesso%20Joy&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:05070B,50:0B1020,100:7B5CFF&height=220&section=header&text=Jesso%20Joy&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 
 
