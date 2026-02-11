@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <!-- ================= HEADER (VENOM THEME) ================= -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&theme=venom&height=200&section=header&text=YOUR_NAME&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:8B0000&height=200&section=header&text=Jesso%20Joy&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
 
 <h3 align="center">💻 Aspiring Java Developer | 🚀 Enchanted by the world of ones and zeros.</h3>
 
@@ -88,6 +89,7 @@ Offline speech → English transcription system
 ---
 
 <!-- ================= FOOTER (VENOM THEME) ================= -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&theme=venom&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:8B0000&height=120&section=footer"/>
+
 
 
