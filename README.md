@@ -68,6 +68,8 @@ Here are some ideas to get you started:
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
 </p>
 
+[![jesso's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessojoy)](https://github.com/jessojoy/github-readme-stats)
+
 ---
 
 ## 🌐 Connect With Me
