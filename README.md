@@ -5,10 +5,13 @@
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Java%20%7C%20Android%20%7C%Node.js%20%7C%20MySQL;Full-Stack%20App%20Developer%20in%20the%20making;Learning.%20Building.%20Improving.%20Repeat.
-" />
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img 
+    src="https://readme-typing-svg.demolab.com/?lines=Java%20%7C%20Android%20%7C%20Flask%20%7C%20MySQL;Full-Stack%20App%20Developer%20in%20the%20making;Learning.%20Building.%20Improving.%20Repeat.&font=Fira%20Code&center=true&width=650&height=45&color=0e75b6&vCenter=true&pause=1000&size=22" 
+    alt="Typing SVG" 
+  />
 </a>
+
 
 </p>
 
